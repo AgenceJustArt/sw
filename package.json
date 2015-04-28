@@ -1,0 +1,21 @@
+{
+    "name":"agencejustart-swchattest",
+    "version":"0.0.0-10",
+     "description": "",
+  	"main": "app.js",
+    "dependencies":{
+        "express":"",
+        "mongoose": "",
+        "socket.io": ""
+    },
+    "scripts": {
+	    "test": "echo \"Error: no test specified\" && exit 1",
+	    "start": "node app.js"
+	},
+	"author": "",
+	"license": "BSD-2-Clause",
+	"subdomain": "agencejustart-swchattest",
+	"engines": {
+	 	"node": "0.10.x"
+	}
+}
